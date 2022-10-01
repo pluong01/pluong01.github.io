@@ -1,0 +1,30 @@
+body {
+	background-color: rgb(208, 249, 241);
+}
+h1 {
+    color: rgb(1, 71, 1);
+    font-size: 1.4em;
+    font-weight: bolder; 
+  }
+
+h2 {
+    color: rgb(1, 71, 1);
+    font-size: 1.3em;
+    font-weight: bolder; 
+    margin-left: 2em;
+  }
+
+h3 {
+    color: rgb(1, 71, 1);
+    font-size: 1.2em;
+    font-weight: bold; 
+    margin-left: 4em;
+  }
+  
+li {
+    color: rgb(1, 71, 1);
+    font-size: 1.1em;
+    font-weight:normal;
+    margin-left: 6em; 
+  }
+  

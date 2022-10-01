@@ -1,0 +1,15 @@
+body {
+	background-color: rgb(208, 249, 241);
+}
+h1 {
+    color: rgb(1, 71, 1);
+    font-size: 1.4em;
+    font-weight: bolder; 
+  }
+
+p {
+  color: rgb(1, 71, 1);
+    font-size: 1.3em;
+    font-weight: bolder; 
+    margin-left: 2em;
+}
