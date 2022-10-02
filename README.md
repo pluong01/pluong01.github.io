@@ -6,5 +6,5 @@
 2.  I have completed this lab on my own, but I have researched and visted websites for instructions on items related to html and css 
     information when I am not sure on syntax or which tags, properties, and attributes to use.
 
-3. I did not track the exact time, but I spent a couple hours during a few week nights and several hours on the weekend.  Thus, probably 12-15 hours.
+3. I did not track the exact time, but I spent a couple hours during a few week nights and several hours on the weekend.  Thus, probably 15-18 hours.
 

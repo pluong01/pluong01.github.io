@@ -3,8 +3,10 @@ body {
 }
 h1 {
     color: rgb(1, 71, 1);
-    font-size: 1.4em;
+    font-size: 1.8em;
     font-weight: bolder; 
+    text-shadow: 1px 1px 1px rgb(1, 71, 1), 2px 2px 1px rgb(1, 71, 1);
+
   }
 
 h2 {

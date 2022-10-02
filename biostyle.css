@@ -3,13 +3,17 @@ body {
 }
 h1 {
     color: rgb(1, 71, 1);
-    font-size: 1.4em;
     font-weight: bolder; 
+    text-shadow: 1px 1px 1px rgb(1, 71, 1), 2px 2px 1px rgb(1, 71, 1);
+    text-align: center;
   }
 
 p {
-  color: rgb(1, 71, 1);
+  color: rgb(2, 49, 2);
     font-size: 1.3em;
-    font-weight: bolder; 
-    margin-left: 2em;
+    font-weight: normal; 
+    margin-left: 4em;
+    margin-right: 4em;
+    float: left;
+
 }
