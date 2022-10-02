@@ -14,11 +14,10 @@ h1 {
 	font-family: 'Times New Roman';
 }
   
-background-color:rgb(227, 235, 215);
 #mainMenu li {
 	display:block;
 	width:120px;
-	border:1px solid #000
+	border:1px solid #000;
 	float:left;
 	margin-left:2px;
 	color:darkgreen;
